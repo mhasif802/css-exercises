@@ -1,0 +1,19 @@
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-style: "Times New Roman", serif;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
